@@ -1,4 +1,4 @@
-# credit-card-segmentation
+# credit-card-segmentation - Internship Project
 Credit Card Spending Pattern Segmentation Using K-Means Clustering
 
 # 💳 Credit Card Spending Pattern Segmentation Using K-Means Clustering
